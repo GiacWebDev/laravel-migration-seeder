@@ -13,6 +13,8 @@
 
 <body>
 
+    @dump($trains)
+
     <div class="conatiner">
         <h1>Train Info</h1>
 
